@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+    padding: 0;
+    border: 1px solid #ccc;
+    /* border-left: 1px solid #ccc; */
+    border-top: none;
+    border-radius: 2px;
+    padding: 10px;
+}
+
+#lista{
+	display: none;
+}
+
+.miform{
+width:400px;margin:0 auto;border:1px solid #ccc;border-radius:10px;padding:20px;
+}
